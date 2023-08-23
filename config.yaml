@@ -1,0 +1,18 @@
+PORT: 8080
+
+DB_HOST: 'localhost'
+DB_PORT: 3306
+DB_USER: root
+DB_PASSWORD: 'root'
+DB_NAME: 'sunking_score_cat'
+DB_POOL_MAX_OPEN: 100
+DB_POOL_MAX_IDLE: 10
+
+PASSWORD_SALT: 'SUNKING_SALT'
+
+MAIL_USER: 'hoang.dinh@gleads.vn'
+MAIL_PASSWORD: 'vnhgzsfhqvwinawz'
+MAIL_HOST: 'smtp.gmail.com'
+MAIL_PORT: 587
+
+WEBSITE_URL: 'localhost/'

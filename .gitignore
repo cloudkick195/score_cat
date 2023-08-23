@@ -1,0 +1,9 @@
+redis-data/
+*.exe
+*.exe~
+*.dll
+*.so
+.env
+redis.conf
+logs/
+.vscode
